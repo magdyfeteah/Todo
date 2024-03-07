@@ -13,7 +13,7 @@ This is a simple Todo application built with React and Redux.
 ## Technologies Used
 
 - React
-- Redux
+- Redux toolkit 
 - HTML/CSS
 - JavaScript
 
