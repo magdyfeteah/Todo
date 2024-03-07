@@ -30,21 +30,17 @@ To get a local copy of the project up and running, follow these steps:
    ```bash
    git clone https://github.com/magdyfeteah/Todo.git
 
-   ```
 
 2. Navigate to the project directory:
 
-````bash
 cd Todo
 
 3. Install dependencies:
 
-```bash
 npm install
 
 4- Start the development server:
 
-``` bash
 npm start
 
 ## Contributing
