@@ -1,0 +1,42 @@
+.form {
+  display: flex;
+  gap: 1.5rem;
+  margin: 2rem;
+}
+@media (max-width: 767px) {
+  .form {
+    flex-direction: column;
+  }
+  .form input {
+    max-width: 20rem;
+    font-size: 0.8rem;
+  }
+  .button {
+    padding: 1rem;
+  }
+}
+.form input {
+  border: 1px solid #d3d3d3;
+  border-radius: 0.8rem;
+  outline: none;
+  width: 35rem;
+  height: 4rem;
+  font-size: 1.5rem;
+  text-align: start;
+  padding-left: 2rem;
+  color: #474747;
+}
+.form input::placeholder {
+  color: #b3b2b2;
+}
+
+.button {
+  padding: 1.1rem;
+  border: 1px solid #d3d3d3;
+  font-size: 1.5rem;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  background-color: white;
+  color: #ad00e5;
+  align-self: center;
+}

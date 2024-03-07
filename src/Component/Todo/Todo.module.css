@@ -1,0 +1,14 @@
+.todo{
+    margin-top : 12rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.todo .lists{
+    border-radius: 10px;
+    
+}
+
+

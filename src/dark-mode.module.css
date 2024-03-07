@@ -1,0 +1,10 @@
+.dark{
+    background-color: rgb(37 39 60 ) !important; 
+    color: rgb(202, 205, 232) !important;
+}
+.darkShadow{
+    box-shadow: -1px 1px 14px 8px rgb(37 38 43);
+}
+.darkBackground{
+    background-image: url('./assets/bg-desktop-dark.jpg') !important;
+}

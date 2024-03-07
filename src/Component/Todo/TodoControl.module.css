@@ -1,0 +1,39 @@
+.control {
+  height: 5rem;
+ gap: 1rem;
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+p {
+  font-weight: bold;
+  font-size: 1rem;
+  text-transform: capitalize;
+}
+
+.links {
+  display: flex;
+}
+@media (max-width: 767px) {
+  .links {
+    flex-direction: column;
+    gap: .5rem;
+  }
+  .control {
+    height: 5rem;
+  }
+}
+div p{
+  margin-left: .5rem;
+}
+.control button {
+  margin-right: 0.8rem;
+  font-size: 1rem;
+  color: #777;
+}
+.control button:hover,
+.links .active {
+  color: #6484e6;
+  font-weight: bold;
+}

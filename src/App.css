@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+body {
+  background-color: #eee;
+}
+.empty {
+  margin: 1rem;
+  font-size: 1.4rem;
+}
