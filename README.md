@@ -51,7 +51,7 @@ To get a local copy of the project up and running, follow these steps:
 
     ``` bash
     npm start
-
+    ```
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
