@@ -33,15 +33,19 @@ To get a local copy of the project up and running, follow these steps:
 
 2. Navigate to the project directory:
 
+``` bash
 cd Todo
 
 3. Install dependencies:
 
+``` bash
 npm install
 
 4- Start the development server:
 
+``` bash
 npm start
 
+``` bash
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
